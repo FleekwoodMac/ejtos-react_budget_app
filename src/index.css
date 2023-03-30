@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.styled-select {
+
+  color: white;
+  background-color: #92E49A;
+  border: 0px solid;
+
+}
+
+.styled-option {
+  
+  background-color: lightgreen;
+  color:black;
+
+}
